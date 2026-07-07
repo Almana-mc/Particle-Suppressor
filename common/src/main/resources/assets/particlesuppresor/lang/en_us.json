@@ -1,0 +1,10 @@
+{
+  "key.particlesuppresor.open": "Open Particle Suppressor",
+  "particlesuppresor.title": "Particle Suppressor",
+  "particlesuppresor.search": "Search",
+  "particlesuppresor.search.hint": "Search all particle types...",
+  "particlesuppresor.master": "Suppressor",
+  "particlesuppresor.anchor.name": "Anchor name",
+  "particlesuppresor.anchor.setpos": "Set Pos",
+  "particlesuppresor.anchor.delete": "Delete"
+}
