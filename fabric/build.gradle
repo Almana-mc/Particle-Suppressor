@@ -6,6 +6,14 @@ base {
     archivesName = mod_id
 }
 
+tasks.named("jar") {
+    archiveFileName = "${mod_name}-fabric-${mod_version}-${minecraft_version}.jar"
+}
+
+tasks.named("remapJar") {
+    archiveFileName = "${mod_name}-fabric-${mod_version}-${minecraft_version}.jar"
+}
+
 repositories {
     maven { url = 'https://maven.fabricmc.net/' }
 }

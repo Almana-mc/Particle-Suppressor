@@ -6,6 +6,10 @@ base {
     archivesName = mod_id
 }
 
+jar {
+    archiveFileName = "${mod_name}-neoforge-${mod_version}-${minecraft_version}.jar"
+}
+
 neoForge {
     version = project.neo_version
 
