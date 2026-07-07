@@ -1,4 +1,6 @@
-# Particle Suppresor [![Join our discord!](https://media.forgecdn.net/attachments/description/1448257/description_c5e501e5-328a-46c7-a594-bb0c451254a5.png)](https://discord.gg/xTeHR2tdYh)
+# Particle Suppresor
+
+ [![Join our discord!](https://media.forgecdn.net/attachments/description/1448257/description_c5e501e5-328a-46c7-a594-bb0c451254a5.png)](https://discord.gg/xTeHR2tdYh)
 
 If your game starts turning into a cloud of particles every time you open a machine, swing a weapon, or run a farm, this mod is for you.
 
